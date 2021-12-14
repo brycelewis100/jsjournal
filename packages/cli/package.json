@@ -1,6 +1,6 @@
 {
   "name": "jsjournal",
-  "version": "1.0.2",
+  "version": "2.0.0",
   "description": "",
   "files": [
     "dist"
@@ -18,10 +18,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@jsjournal/local-client": "^1.0.2"
+    "@jsjournal/local-client": "^2.0.0"
   },
   "devDependencies": {
-    "@jsjournal/local-api": "^1.0.2",
+    "@jsjournal/local-api": "^2.0.0",
     "@types/node": "^16.11.10",
     "commander": "^8.3.0",
     "esbuild": "0.8.26",
