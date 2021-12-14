@@ -1,6 +1,6 @@
 {
   "name": "@jsjournal/local-api",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "dist/index.js",
   "files": [
@@ -23,10 +23,10 @@
     "typescript": "^4.5.2"
   },
   "dependencies": {
-    "@jsjournal/local-client": "^1.0.1",
+    "@jsjournal/local-client": "^1.0.2",
     "cors": "^2.8.5",
     "express": "^4.17.1",
     "http-proxy-middleware": "^2.0.1"
   },
-  "gitHead": "ef0487c93dc9734c11c9bf9d1a7bb2961ce42cce"
+  "gitHead": "fb032f867c13ed492892f1ee9c6e5c6921889962"
 }

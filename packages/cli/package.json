@@ -1,6 +1,6 @@
 {
   "name": "jsjournal",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "files": [
     "dist"
@@ -18,14 +18,14 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@jsjournal/local-client": "^1.0.1"
+    "@jsjournal/local-client": "^1.0.2"
   },
   "devDependencies": {
-    "@jsjournal/local-api": "^1.0.1",
+    "@jsjournal/local-api": "^1.0.2",
     "@types/node": "^16.11.10",
     "commander": "^8.3.0",
     "esbuild": "0.8.26",
     "typescript": "^4.5.2"
   },
-  "gitHead": "ef0487c93dc9734c11c9bf9d1a7bb2961ce42cce"
+  "gitHead": "fb032f867c13ed492892f1ee9c6e5c6921889962"
 }
