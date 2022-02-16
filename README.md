@@ -22,4 +22,4 @@ In the text cell editor, you will enter your text via markdown on the left, and 
 
 ### Data Persistence
 
-All data is written your local file system, so if you close JSJournal, you can reopen it from the terminal and pick up right where you left off.
+All data is written to your local file system, so if you close JSJournal, you can reopen it from the terminal and pick up right where you left off.  Just be sure to launch from the same location each time.
